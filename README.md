@@ -14,10 +14,7 @@ Navigate to the project directory and run the following command <br>
 
 ##### About me: <br>
 **[david-matu.github.com](https://david-matu.github.io/)**
-
-<br><br>
-
+<br>
 Updated:
-
 `Jul 5, 2024`
 
